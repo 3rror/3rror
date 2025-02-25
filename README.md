@@ -1,9 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-I am Gianluca Andreotti. 😄
+I'm **Gianluca Andreotti**, a versatile Software Engineer from Italy 🇮🇹 with a passion for (almost) everything tech-related.
 
-I am an Italian 🇮🇹 Computer Engineer with a passion for (almost) everything computer-related.
+I enjoy building high-quality software that makes a real impact, simplifying everyday life through well-crafted solutions.
 
-I am a very **versatile developer** with many horizontal skills.
-
-In my life, I would like to create **high-quality software** that simplifies people's lives every day.
+Always curious, always learning. 🚀
